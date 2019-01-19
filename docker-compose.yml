@@ -17,7 +17,7 @@ services:
       ADMIN_USER_NAME: "admin"
       ADMIN_PASSWORD: "wp@2019"
       LANGUAGE: "pt_BR"
-      CURRENCY: "RS"
+      CURRENCY: "BRL"
       TIMEZONE: "America/Chicago"
       MYSQL_ROOT_PASSWORD: "root"
       MYSQL_DATABASE:  "magento"
