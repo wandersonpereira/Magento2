@@ -1,4 +1,5 @@
 <?php
+
 return array(
     'backend' =>
         array(
@@ -123,3 +124,5 @@ return array(
                 ),
         ),
 );
+
+?>
